@@ -1,0 +1,41 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{ABF2532D-1170-40E1-A075-F1677F0D8A7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQnovaSintaxe", "LINQnovaSintaxe\LINQnovaSintaxe.csproj", "{43222278-C067-4878-9638-E478B7D26C34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqComObjetos", "LinqComObjetos\LinqComObjetos.csproj", "{8E66AC72-FE54-4AD0-9F94-53F1E72FDE50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_JOIN", "LINQ_JOIN\LINQ_JOIN.csproj", "{13BC2A54-2A30-485B-B265-7E41653C7A98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_GROUPBY_DISTINCT", "LINQ_GROUPBY_DISTINCT\LINQ_GROUPBY_DISTINCT.csproj", "{D23F14CA-4846-4EE2-A521-CEABAF184BED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF2532D-1170-40E1-A075-F1677F0D8A7B}.Debug|x86.ActiveCfg = Debug|x86
+		{ABF2532D-1170-40E1-A075-F1677F0D8A7B}.Debug|x86.Build.0 = Debug|x86
+		{ABF2532D-1170-40E1-A075-F1677F0D8A7B}.Release|x86.ActiveCfg = Release|x86
+		{ABF2532D-1170-40E1-A075-F1677F0D8A7B}.Release|x86.Build.0 = Release|x86
+		{43222278-C067-4878-9638-E478B7D26C34}.Debug|x86.ActiveCfg = Debug|x86
+		{43222278-C067-4878-9638-E478B7D26C34}.Debug|x86.Build.0 = Debug|x86
+		{43222278-C067-4878-9638-E478B7D26C34}.Release|x86.ActiveCfg = Release|x86
+		{43222278-C067-4878-9638-E478B7D26C34}.Release|x86.Build.0 = Release|x86
+		{8E66AC72-FE54-4AD0-9F94-53F1E72FDE50}.Debug|x86.ActiveCfg = Debug|x86
+		{8E66AC72-FE54-4AD0-9F94-53F1E72FDE50}.Debug|x86.Build.0 = Debug|x86
+		{8E66AC72-FE54-4AD0-9F94-53F1E72FDE50}.Release|x86.ActiveCfg = Release|x86
+		{8E66AC72-FE54-4AD0-9F94-53F1E72FDE50}.Release|x86.Build.0 = Release|x86
+		{13BC2A54-2A30-485B-B265-7E41653C7A98}.Debug|x86.ActiveCfg = Debug|x86
+		{13BC2A54-2A30-485B-B265-7E41653C7A98}.Debug|x86.Build.0 = Debug|x86
+		{13BC2A54-2A30-485B-B265-7E41653C7A98}.Release|x86.ActiveCfg = Release|x86
+		{13BC2A54-2A30-485B-B265-7E41653C7A98}.Release|x86.Build.0 = Release|x86
+		{D23F14CA-4846-4EE2-A521-CEABAF184BED}.Debug|x86.ActiveCfg = Debug|x86
+		{D23F14CA-4846-4EE2-A521-CEABAF184BED}.Debug|x86.Build.0 = Debug|x86
+		{D23F14CA-4846-4EE2-A521-CEABAF184BED}.Release|x86.ActiveCfg = Release|x86
+		{D23F14CA-4846-4EE2-A521-CEABAF184BED}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
